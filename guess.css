@@ -1,0 +1,65 @@
+.guessimg1{
+	text-align: center;
+	margin-left:560px;
+	margin-right:560px;
+	margin-top:100px;
+	margin-bottom:10px;
+	height:200px;
+}
+
+#bg-container{
+	background-image:linear-gradient(orange,yellow);
+}
+
+#game-description{
+	font-size:36px;
+	text-align: center;
+	padding-bottom:16px;
+}
+.guess_bg_cont{
+	margin-left:560px;
+	margin-right:560px;
+}
+.heading1{
+	font-size:33px;
+	text-align: center;
+}
+
+#guessimg2{
+     margin-right:80px;
+     margin-left: 80px;
+ }
+
+.button-guess{
+	margin-left:700px;
+	margin-right:700px;
+	padding:8px;
+	width:64px;
+	background-color:blue;
+	color: white;
+}
+.guess_bg_cont{
+	background-image:linear-gradient(grey,black);
+}
+#userInput{
+	margin-right:650px;
+	margin-left:650px;
+	margin-bottom:16px;
+	margin-top:16px;
+}
+#game-result{
+	width:30vw;
+	height:4vh;
+	margin-left:520px;
+	margin-right:520px;
+	padding-right:20px;
+	padding-left:20px;
+	font-size:24px;
+}
+.cont2{
+	background-color:crimson;
+	padding-top: 8px;
+	padding-bottom:4px;
+}
+
+
